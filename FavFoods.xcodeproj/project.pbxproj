@@ -14,6 +14,30 @@
 		8F21DC6A2850E0E100C32451 /* FavFoodsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21DC692850E0E100C32451 /* FavFoodsTests.swift */; };
 		8F21DC742850E0E100C32451 /* FavFoodsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21DC732850E0E100C32451 /* FavFoodsUITests.swift */; };
 		8F21DC762850E0E100C32451 /* FavFoodsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21DC752850E0E100C32451 /* FavFoodsUITestsLaunchTests.swift */; };
+		8F21DC832850FFF100C32451 /* GetStartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21DC822850FFF000C32451 /* GetStartedView.swift */; };
+		8F21DC842850FFF100C32451 /* GetStartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21DC822850FFF000C32451 /* GetStartedView.swift */; };
+		8F21DC852850FFF100C32451 /* GetStartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F21DC822850FFF000C32451 /* GetStartedView.swift */; };
+		8F5AF1B72857B5CB00D90AEF /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B42857B5CB00D90AEF /* Poppins-Bold.ttf */; };
+		8F5AF1B82857B5CB00D90AEF /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B42857B5CB00D90AEF /* Poppins-Bold.ttf */; };
+		8F5AF1B92857B5CB00D90AEF /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B42857B5CB00D90AEF /* Poppins-Bold.ttf */; };
+		8F5AF1BA2857B5CB00D90AEF /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B52857B5CB00D90AEF /* Poppins-Regular.ttf */; };
+		8F5AF1BB2857B5CB00D90AEF /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B52857B5CB00D90AEF /* Poppins-Regular.ttf */; };
+		8F5AF1BC2857B5CB00D90AEF /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B52857B5CB00D90AEF /* Poppins-Regular.ttf */; };
+		8F5AF1BD2857B5CB00D90AEF /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B62857B5CB00D90AEF /* Poppins-SemiBold.ttf */; };
+		8F5AF1BE2857B5CB00D90AEF /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B62857B5CB00D90AEF /* Poppins-SemiBold.ttf */; };
+		8F5AF1BF2857B5CB00D90AEF /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F5AF1B62857B5CB00D90AEF /* Poppins-SemiBold.ttf */; };
+		8FAC491128619F1200B07D29 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC491028619F1200B07D29 /* Poppins-Medium.ttf */; };
+		8FAC491228619F1200B07D29 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC491028619F1200B07D29 /* Poppins-Medium.ttf */; };
+		8FAC491328619F1200B07D29 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FAC491028619F1200B07D29 /* Poppins-Medium.ttf */; };
+		8FAC49152862355100B07D29 /* FoodDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC49142862355100B07D29 /* FoodDetailView.swift */; };
+		8FAC49162862355100B07D29 /* FoodDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC49142862355100B07D29 /* FoodDetailView.swift */; };
+		8FAC49172862355100B07D29 /* FoodDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC49142862355100B07D29 /* FoodDetailView.swift */; };
+		8FAC49192862358000B07D29 /* AccountManageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC49182862358000B07D29 /* AccountManageView.swift */; };
+		8FAC491A2862358000B07D29 /* AccountManageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC49182862358000B07D29 /* AccountManageView.swift */; };
+		8FAC491B2862358000B07D29 /* AccountManageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FAC49182862358000B07D29 /* AccountManageView.swift */; };
+		8FDCFB22285A4E5D002C87BC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDCFB21285A4E5D002C87BC /* HomeView.swift */; };
+		8FDCFB23285A4E5D002C87BC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDCFB21285A4E5D002C87BC /* HomeView.swift */; };
+		8FDCFB24285A4E5D002C87BC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FDCFB21285A4E5D002C87BC /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +68,15 @@
 		8F21DC6F2850E0E100C32451 /* FavFoodsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FavFoodsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F21DC732850E0E100C32451 /* FavFoodsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavFoodsUITests.swift; sourceTree = "<group>"; };
 		8F21DC752850E0E100C32451 /* FavFoodsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavFoodsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8F21DC822850FFF000C32451 /* GetStartedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStartedView.swift; sourceTree = "<group>"; };
+		8F5AF1B42857B5CB00D90AEF /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		8F5AF1B52857B5CB00D90AEF /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		8F5AF1B62857B5CB00D90AEF /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		8F5AF1C02857B63700D90AEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8FAC491028619F1200B07D29 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		8FAC49142862355100B07D29 /* FoodDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailView.swift; sourceTree = "<group>"; };
+		8FAC49182862358000B07D29 /* AccountManageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountManageView.swift; sourceTree = "<group>"; };
+		8FDCFB21285A4E5D002C87BC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +127,17 @@
 		8F21DC572850E0DC00C32451 /* FavFoods */ = {
 			isa = PBXGroup;
 			children = (
+				8F5AF1C02857B63700D90AEF /* Info.plist */,
+				8F5AF1B42857B5CB00D90AEF /* Poppins-Bold.ttf */,
+				8FAC491028619F1200B07D29 /* Poppins-Medium.ttf */,
+				8F5AF1B52857B5CB00D90AEF /* Poppins-Regular.ttf */,
+				8F5AF1B62857B5CB00D90AEF /* Poppins-SemiBold.ttf */,
+				8FAC49182862358000B07D29 /* AccountManageView.swift */,
 				8F21DC582850E0DC00C32451 /* FavFoodsApp.swift */,
 				8F21DC5A2850E0DC00C32451 /* ContentView.swift */,
+				8F21DC822850FFF000C32451 /* GetStartedView.swift */,
+				8FAC49142862355100B07D29 /* FoodDetailView.swift */,
+				8FDCFB21285A4E5D002C87BC /* HomeView.swift */,
 				8F21DC5C2850E0E000C32451 /* Assets.xcassets */,
 				8F21DC5E2850E0E000C32451 /* Preview Content */,
 			);
@@ -231,8 +273,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F5AF1BD2857B5CB00D90AEF /* Poppins-SemiBold.ttf in Resources */,
 				8F21DC602850E0E000C32451 /* Preview Assets.xcassets in Resources */,
+				8F5AF1B72857B5CB00D90AEF /* Poppins-Bold.ttf in Resources */,
+				8FAC491128619F1200B07D29 /* Poppins-Medium.ttf in Resources */,
 				8F21DC5D2850E0E000C32451 /* Assets.xcassets in Resources */,
+				8F5AF1BA2857B5CB00D90AEF /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +286,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F5AF1BE2857B5CB00D90AEF /* Poppins-SemiBold.ttf in Resources */,
+				8FAC491228619F1200B07D29 /* Poppins-Medium.ttf in Resources */,
+				8F5AF1B82857B5CB00D90AEF /* Poppins-Bold.ttf in Resources */,
+				8F5AF1BB2857B5CB00D90AEF /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +297,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F5AF1BF2857B5CB00D90AEF /* Poppins-SemiBold.ttf in Resources */,
+				8FAC491328619F1200B07D29 /* Poppins-Medium.ttf in Resources */,
+				8F5AF1B92857B5CB00D90AEF /* Poppins-Bold.ttf in Resources */,
+				8F5AF1BC2857B5CB00D90AEF /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +312,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F21DC5B2850E0DC00C32451 /* ContentView.swift in Sources */,
+				8FAC49192862358000B07D29 /* AccountManageView.swift in Sources */,
+				8FDCFB22285A4E5D002C87BC /* HomeView.swift in Sources */,
+				8F21DC832850FFF100C32451 /* GetStartedView.swift in Sources */,
 				8F21DC592850E0DC00C32451 /* FavFoodsApp.swift in Sources */,
+				8FAC49152862355100B07D29 /* FoodDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +324,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FDCFB23285A4E5D002C87BC /* HomeView.swift in Sources */,
+				8FAC49162862355100B07D29 /* FoodDetailView.swift in Sources */,
 				8F21DC6A2850E0E100C32451 /* FavFoodsTests.swift in Sources */,
+				8F21DC842850FFF100C32451 /* GetStartedView.swift in Sources */,
+				8FAC491A2862358000B07D29 /* AccountManageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +337,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F21DC762850E0E100C32451 /* FavFoodsUITestsLaunchTests.swift in Sources */,
+				8FAC491B2862358000B07D29 /* AccountManageView.swift in Sources */,
+				8FDCFB24285A4E5D002C87BC /* HomeView.swift in Sources */,
+				8F21DC852850FFF100C32451 /* GetStartedView.swift in Sources */,
 				8F21DC742850E0E100C32451 /* FavFoodsUITests.swift in Sources */,
+				8FAC49172862355100B07D29 /* FoodDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +486,7 @@
 				DEVELOPMENT_TEAM = HCBVWWXW4L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FavFoods/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +516,7 @@
 				DEVELOPMENT_TEAM = HCBVWWXW4L;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FavFoods/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
